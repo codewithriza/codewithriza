@@ -19,3 +19,5 @@ riza = Riza()
 # Output Riza's information
 print(riza)
 ```
+---
+[![Discord Logo](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/887532157747212370)

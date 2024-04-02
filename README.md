@@ -20,5 +20,6 @@ riza = Riza()
 print(riza)
 ```
 ---
-[![Discord Logo](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.com/users/887532157747212370)
-[![Website Logo](https://img.icons8.com/color/48/000000/domain.png)](riza.xyz)
+[![Discord Logo](https://img.icons8.com/color/24/000000/discord-new-logo.png)](https://discord.com/users/887532157747212370)
+[![Website Logo](https://img.icons8.com/color/24/000000/globe.png)](https://riza.xyz)
+

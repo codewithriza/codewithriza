@@ -29,15 +29,15 @@ I've been interested in coding since the age of 10 years old. I started off with
 - **LeetCode:** Grinding LeetCode for fun and practice.
 
 # Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)
+![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,next&theme=dark)
 
-[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
+![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)
 
-[![Game Development](https://skillicons.dev/icons?i=cs,unity,godot&theme=dark)](https://skillicons.dev)
+![Game Development](https://skillicons.dev/icons?i=cs,unity,godot&theme=dark)
 
-[![AI](https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,arduino,raspberrypi,&theme=dark)](https://skillicons.dev)
+![AI](https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,arduino,raspberrypi,&theme=dark)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,netlify,idea,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
+![Tools](https://skillicons.dev/icons?i=vscode,postman,netlify,idea,heroku,github,figma,eclipse&theme=dark)
 
 
 

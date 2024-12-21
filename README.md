@@ -23,21 +23,3 @@ I've been interested in coding since the age of 10 years old. I started off with
 
 ---
 
-## Currently Working On
-- **OpenCV Projects:** Currently working on projects related to OpenCV.
-- **AI/Machine Learning:** Self-teaching and experimenting.
-- **LeetCode:** Grinding LeetCode for fun and practice.
-
-# Tech Stack
-![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,next&theme=dark)
-
-![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)
-
-![Game Development](https://skillicons.dev/icons?i=cs,unity,godot&theme=dark)
-
-![AI](https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,arduino,raspberrypi,&theme=dark)
-
-![Tools](https://skillicons.dev/icons?i=vscode,postman,netlify,idea,heroku,github,figma,eclipse&theme=dark)
-
-
-

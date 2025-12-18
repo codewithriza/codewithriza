@@ -7,7 +7,7 @@
 class Riza:
     def __init__(self):
         self.name = "Riza"
-        self.age = 14
+        self.age = 16
         self.interests = ["coding", "gaming", "learning", "football"]
         self.skills = ["Python", "JavaScript", "C++", "C#"]
 
